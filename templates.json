@@ -1,0 +1,1646 @@
+{
+  "ext_templates": [
+    {
+      "name": "creative",
+      "dir": "templates/ext/creative",
+      "image": "img/templates/ext/creative.png"
+    },
+    {
+      "name": "grayscale",
+      "dir": "templates/ext/grayscale",
+      "image": "img/templates/ext/grayscale.png"
+    }
+  ],
+  "hugo_templates": [
+    {
+      "name": "Academia-hugo",
+      "dir": "templates/hugo/themes/Academia-hugo",
+      "image": "/templates/hugo/themes/Academia-hugo/tn-featured-Academia-hugo.png"
+    },
+    {
+      "name": "BeyondNothing",
+      "dir": "templates/hugo/themes/BeyondNothing",
+      "image": "/templates/hugo/themes/BeyondNothing/tn-featured-BeyondNothing.png"
+    },
+    {
+      "name": "Binario",
+      "dir": "templates/hugo/themes/Binario",
+      "image": "/templates/hugo/themes/Binario/tn-featured-Binario.png"
+    },
+    {
+      "name": "Blogpaper",
+      "dir": "templates/hugo/themes/Blogpaper",
+      "image": "/templates/hugo/themes/Blogpaper/tn-featured-Blogpaper.png"
+    },
+    {
+      "name": "Hargo-hugo-ecommerce-theme",
+      "dir": "templates/hugo/themes/Hargo-hugo-ecommerce-theme",
+      "image": "/templates/hugo/themes/Hargo-hugo-ecommerce-theme/tn-featured-Hargo-hugo-ecommerce-theme.png"
+    },
+    {
+      "name": "HugoTeX",
+      "dir": "templates/hugo/themes/HugoTeX",
+      "image": "/templates/hugo/themes/HugoTeX/tn-featured-HugoTeX.png"
+    },
+    {
+      "name": "Influencer-hugo",
+      "dir": "templates/hugo/themes/Influencer-hugo",
+      "image": "/templates/hugo/themes/Influencer-hugo/tn-featured-Influencer-hugo.png"
+    },
+    {
+      "name": "KeepIt",
+      "dir": "templates/hugo/themes/KeepIt",
+      "image": "/templates/hugo/themes/KeepIt/tn-featured-KeepIt.png"
+    },
+    {
+      "name": "LeaveIt",
+      "dir": "templates/hugo/themes/LeaveIt",
+      "image": "/templates/hugo/themes/LeaveIt/tn-featured-LeaveIt.png"
+    },
+    {
+      "name": "LoveIt",
+      "dir": "templates/hugo/themes/LoveIt",
+      "image": "/templates/hugo/themes/LoveIt/tn-featured-LoveIt.png"
+    },
+    {
+      "name": "Midnight",
+      "dir": "templates/hugo/themes/Midnight",
+      "image": "/templates/hugo/themes/Midnight/tn-featured-Midnight.png"
+    },
+    {
+      "name": "Niello",
+      "dir": "templates/hugo/themes/Niello",
+      "image": "/templates/hugo/themes/Niello/tn-featured-Niello.png"
+    },
+    {
+      "name": "OneDly-Theme",
+      "dir": "templates/hugo/themes/OneDly-Theme",
+      "image": "/templates/hugo/themes/OneDly-Theme/tn-featured-OneDly-Theme.png"
+    },
+    {
+      "name": "aafu",
+      "dir": "templates/hugo/themes/aafu",
+      "image": "/templates/hugo/themes/aafu/tn-featured-aafu.png"
+    },
+    {
+      "name": "academic",
+      "dir": "templates/hugo/themes/academic",
+      "image": "/templates/hugo/themes/academic/tn-featured-academic.png"
+    },
+    {
+      "name": "ace-documentation",
+      "dir": "templates/hugo/themes/ace-documentation",
+      "image": "/templates/hugo/themes/ace-documentation/tn-featured-ace-documentation.png"
+    },
+    {
+      "name": "aether",
+      "dir": "templates/hugo/themes/aether",
+      "image": "/templates/hugo/themes/aether/tn-featured-aether.png"
+    },
+    {
+      "name": "air",
+      "dir": "templates/hugo/themes/air",
+      "image": "/templates/hugo/themes/air/tn-featured-air.png"
+    },
+    {
+      "name": "airspace-hugo",
+      "dir": "templates/hugo/themes/airspace-hugo",
+      "image": "/templates/hugo/themes/airspace-hugo/tn-featured-airspace-hugo.png"
+    },
+    {
+      "name": "allegiant",
+      "dir": "templates/hugo/themes/allegiant",
+      "image": "/templates/hugo/themes/allegiant/tn-featured-allegiant.png"
+    },
+    {
+      "name": "alpha-church",
+      "dir": "templates/hugo/themes/alpha-church",
+      "image": "/templates/hugo/themes/alpha-church/tn-featured-alpha-church.png"
+    },
+    {
+      "name": "amperage",
+      "dir": "templates/hugo/themes/amperage",
+      "image": "/templates/hugo/themes/amperage/tn-featured-amperage.png"
+    },
+    {
+      "name": "anatole",
+      "dir": "templates/hugo/themes/anatole",
+      "image": "/templates/hugo/themes/anatole/tn-featured-anatole.png"
+    },
+    {
+      "name": "anybodyhome",
+      "dir": "templates/hugo/themes/anybodyhome",
+      "image": "/templates/hugo/themes/anybodyhome/tn-featured-anybodyhome.png"
+    },
+    {
+      "name": "arabica",
+      "dir": "templates/hugo/themes/arabica",
+      "image": "/templates/hugo/themes/arabica/tn-featured-arabica.png"
+    },
+    {
+      "name": "archie",
+      "dir": "templates/hugo/themes/archie",
+      "image": "/templates/hugo/themes/archie/tn-featured-archie.png"
+    },
+    {
+      "name": "autophugo",
+      "dir": "templates/hugo/themes/autophugo",
+      "image": "/templates/hugo/themes/autophugo/tn-featured-autophugo.png"
+    },
+    {
+      "name": "avicenna",
+      "dir": "templates/hugo/themes/avicenna",
+      "image": "/templates/hugo/themes/avicenna/tn-featured-avicenna.png"
+    },
+    {
+      "name": "axiom",
+      "dir": "templates/hugo/themes/axiom",
+      "image": "/templates/hugo/themes/axiom/tn-featured-axiom.png"
+    },
+    {
+      "name": "bare-hugo-theme",
+      "dir": "templates/hugo/themes/bare-hugo-theme",
+      "image": "/templates/hugo/themes/bare-hugo-theme/tn-featured-bare-hugo-theme.png"
+    },
+    {
+      "name": "base16",
+      "dir": "templates/hugo/themes/base16",
+      "image": "/templates/hugo/themes/base16/tn-featured-base16.png"
+    },
+    {
+      "name": "beautifulhugo",
+      "dir": "templates/hugo/themes/beautifulhugo",
+      "image": "/templates/hugo/themes/beautifulhugo/tn-featured-beautifulhugo.png"
+    },
+    {
+      "name": "bilberry-hugo-theme",
+      "dir": "templates/hugo/themes/bilberry-hugo-theme",
+      "image": "/templates/hugo/themes/bilberry-hugo-theme/tn-featured-bilberry-hugo-theme.png"
+    },
+    {
+      "name": "black-and-light",
+      "dir": "templates/hugo/themes/black-and-light",
+      "image": "/templates/hugo/themes/black-and-light/tn-featured-black-and-light.png"
+    },
+    {
+      "name": "blackburn",
+      "dir": "templates/hugo/themes/blackburn",
+      "image": "/templates/hugo/themes/blackburn/tn-featured-blackburn.png"
+    },
+    {
+      "name": "blank",
+      "dir": "templates/hugo/themes/blank",
+      "image": "/templates/hugo/themes/blank/tn-featured-blank.png"
+    },
+    {
+      "name": "bodhi",
+      "dir": "templates/hugo/themes/bodhi",
+      "image": "/templates/hugo/themes/bodhi/tn-featured-bodhi.png"
+    },
+    {
+      "name": "bootie-docs",
+      "dir": "templates/hugo/themes/bootie-docs",
+      "image": "/templates/hugo/themes/bootie-docs/tn-featured-bootie-docs.png"
+    },
+    {
+      "name": "bootstrap-bp-hugo-startpage",
+      "dir": "templates/hugo/themes/bootstrap-bp-hugo-startpage",
+      "image": "/templates/hugo/themes/bootstrap-bp-hugo-startpage/tn-featured-bootstrap-bp-hugo-startpage.png"
+    },
+    {
+      "name": "bootstrap-bp-hugo-theme",
+      "dir": "templates/hugo/themes/bootstrap-bp-hugo-theme",
+      "image": "/templates/hugo/themes/bootstrap-bp-hugo-theme/tn-featured-bootstrap-bp-hugo-theme.png"
+    },
+    {
+      "name": "capsule",
+      "dir": "templates/hugo/themes/capsule",
+      "image": "/templates/hugo/themes/capsule/tn-featured-capsule.png"
+    },
+    {
+      "name": "castanet",
+      "dir": "templates/hugo/themes/castanet",
+      "image": "/templates/hugo/themes/castanet/tn-featured-castanet.png"
+    },
+    {
+      "name": "cayman-hugo-theme",
+      "dir": "templates/hugo/themes/cayman-hugo-theme",
+      "image": "/templates/hugo/themes/cayman-hugo-theme/tn-featured-cayman-hugo-theme.png"
+    },
+    {
+      "name": "charaka-hugo-theme",
+      "dir": "templates/hugo/themes/charaka-hugo-theme",
+      "image": "/templates/hugo/themes/charaka-hugo-theme/tn-featured-charaka-hugo-theme.png"
+    },
+    {
+      "name": "classless-hugo",
+      "dir": "templates/hugo/themes/classless-hugo",
+      "image": "/templates/hugo/themes/classless-hugo/tn-featured-classless-hugo.png"
+    },
+    {
+      "name": "colordrop",
+      "dir": "templates/hugo/themes/colordrop",
+      "image": "/templates/hugo/themes/colordrop/tn-featured-colordrop.png"
+    },
+    {
+      "name": "compose",
+      "dir": "templates/hugo/themes/compose",
+      "image": "/templates/hugo/themes/compose/tn-featured-compose.png"
+    },
+    {
+      "name": "contrast-hugo",
+      "dir": "templates/hugo/themes/contrast-hugo",
+      "image": "/templates/hugo/themes/contrast-hugo/tn-featured-contrast-hugo.png"
+    },
+    {
+      "name": "crab",
+      "dir": "templates/hugo/themes/crab",
+      "image": "/templates/hugo/themes/crab/tn-featured-crab.png"
+    },
+    {
+      "name": "cupper-hugo-theme",
+      "dir": "templates/hugo/themes/cupper-hugo-theme",
+      "image": "/templates/hugo/themes/cupper-hugo-theme/tn-featured-cupper-hugo-theme.png"
+    },
+    {
+      "name": "darksimplicity",
+      "dir": "templates/hugo/themes/darksimplicity",
+      "image": "/templates/hugo/themes/darksimplicity/tn-featured-darksimplicity.png"
+    },
+    {
+      "name": "detox",
+      "dir": "templates/hugo/themes/detox",
+      "image": "/templates/hugo/themes/detox/tn-featured-detox.png"
+    },
+    {
+      "name": "devise",
+      "dir": "templates/hugo/themes/devise",
+      "image": "/templates/hugo/themes/devise/tn-featured-devise.png"
+    },
+    {
+      "name": "docter",
+      "dir": "templates/hugo/themes/docter",
+      "image": "/templates/hugo/themes/docter/tn-featured-docter.png"
+    },
+    {
+      "name": "docuapi",
+      "dir": "templates/hugo/themes/docuapi",
+      "image": "/templates/hugo/themes/docuapi/tn-featured-docuapi.png"
+    },
+    {
+      "name": "dot-hugo-documentation-theme",
+      "dir": "templates/hugo/themes/dot-hugo-documentation-theme",
+      "image": "/templates/hugo/themes/dot-hugo-documentation-theme/tn-featured-dot-hugo-documentation-theme.png"
+    },
+    {
+      "name": "edidor",
+      "dir": "templates/hugo/themes/edidor",
+      "image": "/templates/hugo/themes/edidor/tn-featured-edidor.png"
+    },
+    {
+      "name": "educenter-hugo",
+      "dir": "templates/hugo/themes/educenter-hugo",
+      "image": "/templates/hugo/themes/educenter-hugo/tn-featured-educenter-hugo.png"
+    },
+    {
+      "name": "elephants",
+      "dir": "templates/hugo/themes/elephants",
+      "image": "/templates/hugo/themes/elephants/tn-featured-elephants.png"
+    },
+    {
+      "name": "engimo",
+      "dir": "templates/hugo/themes/engimo",
+      "image": "/templates/hugo/themes/engimo/tn-featured-engimo.png"
+    },
+    {
+      "name": "er",
+      "dir": "templates/hugo/themes/er",
+      "image": "/templates/hugo/themes/er/tn-featured-er.png"
+    },
+    {
+      "name": "erblog",
+      "dir": "templates/hugo/themes/erblog",
+      "image": "/templates/hugo/themes/erblog/tn-featured-erblog.png"
+    },
+    {
+      "name": "etch",
+      "dir": "templates/hugo/themes/etch",
+      "image": "/templates/hugo/themes/etch/tn-featured-etch.png"
+    },
+    {
+      "name": "ezhil",
+      "dir": "templates/hugo/themes/ezhil",
+      "image": "/templates/hugo/themes/ezhil/tn-featured-ezhil.png"
+    },
+    {
+      "name": "flexible-seo-hugo",
+      "dir": "templates/hugo/themes/flexible-seo-hugo",
+      "image": "/templates/hugo/themes/flexible-seo-hugo/tn-featured-flexible-seo-hugo.png"
+    },
+    {
+      "name": "forty",
+      "dir": "templates/hugo/themes/forty",
+      "image": "/templates/hugo/themes/forty/tn-featured-forty.png"
+    },
+    {
+      "name": "foundation-theme",
+      "dir": "templates/hugo/themes/foundation-theme",
+      "image": "/templates/hugo/themes/foundation-theme/tn-featured-foundation-theme.png"
+    },
+    {
+      "name": "future-imperfect",
+      "dir": "templates/hugo/themes/future-imperfect",
+      "image": "/templates/hugo/themes/future-imperfect/tn-featured-future-imperfect.png"
+    },
+    {
+      "name": "ghazal",
+      "dir": "templates/hugo/themes/ghazal",
+      "image": "/templates/hugo/themes/ghazal/tn-featured-ghazal.png"
+    },
+    {
+      "name": "ghostwriter",
+      "dir": "templates/hugo/themes/ghostwriter",
+      "image": "/templates/hugo/themes/ghostwriter/tn-featured-ghostwriter.png"
+    },
+    {
+      "name": "github-style",
+      "dir": "templates/hugo/themes/github-style",
+      "image": "/templates/hugo/themes/github-style/tn-featured-github-style.png"
+    },
+    {
+      "name": "gochowdown",
+      "dir": "templates/hugo/themes/gochowdown",
+      "image": "/templates/hugo/themes/gochowdown/tn-featured-gochowdown.png"
+    },
+    {
+      "name": "gohugo-theme-ananke",
+      "dir": "templates/hugo/themes/gohugo-theme-ananke",
+      "image": "/templates/hugo/themes/gohugo-theme-ananke/tn-featured-gohugo-theme-ananke.png"
+    },
+    {
+      "name": "grid-side",
+      "dir": "templates/hugo/themes/grid-side",
+      "image": "/templates/hugo/themes/grid-side/tn-featured-grid-side.png"
+    },
+    {
+      "name": "hallo-hugo",
+      "dir": "templates/hugo/themes/hallo-hugo",
+      "image": "/templates/hugo/themes/hallo-hugo/tn-featured-hallo-hugo.png"
+    },
+    {
+      "name": "harbor",
+      "dir": "templates/hugo/themes/harbor",
+      "image": "/templates/hugo/themes/harbor/tn-featured-harbor.png"
+    },
+    {
+      "name": "hermit",
+      "dir": "templates/hugo/themes/hermit",
+      "image": "/templates/hugo/themes/hermit/tn-featured-hermit.png"
+    },
+    {
+      "name": "hestia-pure",
+      "dir": "templates/hugo/themes/hestia-pure",
+      "image": "/templates/hugo/themes/hestia-pure/tn-featured-hestia-pure.png"
+    },
+    {
+      "name": "highlights",
+      "dir": "templates/hugo/themes/highlights",
+      "image": "/templates/hugo/themes/highlights/tn-featured-highlights.png"
+    },
+    {
+      "name": "hpstr-hugo-theme",
+      "dir": "templates/hugo/themes/hpstr-hugo-theme",
+      "image": "/templates/hugo/themes/hpstr-hugo-theme/tn-featured-hpstr-hugo-theme.png"
+    },
+    {
+      "name": "huginn",
+      "dir": "templates/hugo/themes/huginn",
+      "image": "/templates/hugo/themes/huginn/tn-featured-huginn.png"
+    },
+    {
+      "name": "hugo-alageek-theme",
+      "dir": "templates/hugo/themes/hugo-alageek-theme",
+      "image": "/templates/hugo/themes/hugo-alageek-theme/tn-featured-hugo-alageek-theme.png"
+    },
+    {
+      "name": "hugo-apps-theme",
+      "dir": "templates/hugo/themes/hugo-apps-theme",
+      "image": "/templates/hugo/themes/hugo-apps-theme/tn-featured-hugo-apps-theme.png"
+    },
+    {
+      "name": "hugo-assembly",
+      "dir": "templates/hugo/themes/hugo-assembly",
+      "image": "/templates/hugo/themes/hugo-assembly/tn-featured-hugo-assembly.png"
+    },
+    {
+      "name": "hugo-bingo",
+      "dir": "templates/hugo/themes/hugo-bingo",
+      "image": "/templates/hugo/themes/hugo-bingo/tn-featured-hugo-bingo.png"
+    },
+    {
+      "name": "hugo-blog-jeffprod",
+      "dir": "templates/hugo/themes/hugo-blog-jeffprod",
+      "image": "/templates/hugo/themes/hugo-blog-jeffprod/tn-featured-hugo-blog-jeffprod.png"
+    },
+    {
+      "name": "hugo-book",
+      "dir": "templates/hugo/themes/hugo-book",
+      "image": "/templates/hugo/themes/hugo-book/tn-featured-hugo-book.png"
+    },
+    {
+      "name": "hugo-bootstrap4",
+      "dir": "templates/hugo/themes/hugo-bootstrap4",
+      "image": "/templates/hugo/themes/hugo-bootstrap4/tn-featured-hugo-bootstrap4.png"
+    },
+    {
+      "name": "hugo-business-frontpage-theme",
+      "dir": "templates/hugo/themes/hugo-business-frontpage-theme",
+      "image": "/templates/hugo/themes/hugo-business-frontpage-theme/tn-featured-hugo-business-frontpage-theme.png"
+    },
+    {
+      "name": "hugo-cards",
+      "dir": "templates/hugo/themes/hugo-cards",
+      "image": "/templates/hugo/themes/hugo-cards/tn-featured-hugo-cards.png"
+    },
+    {
+      "name": "hugo-casper3",
+      "dir": "templates/hugo/themes/hugo-casper3",
+      "image": "/templates/hugo/themes/hugo-casper3/tn-featured-hugo-casper3.png"
+    },
+    {
+      "name": "hugo-changelog-theme",
+      "dir": "templates/hugo/themes/hugo-changelog-theme",
+      "image": "/templates/hugo/themes/hugo-changelog-theme/tn-featured-hugo-changelog-theme.png"
+    },
+    {
+      "name": "hugo-classic",
+      "dir": "templates/hugo/themes/hugo-classic",
+      "image": "/templates/hugo/themes/hugo-classic/tn-featured-hugo-classic.png"
+    },
+    {
+      "name": "hugo-coder-portfolio",
+      "dir": "templates/hugo/themes/hugo-coder-portfolio",
+      "image": "/templates/hugo/themes/hugo-coder-portfolio/tn-featured-hugo-coder-portfolio.png"
+    },
+    {
+      "name": "hugo-coder",
+      "dir": "templates/hugo/themes/hugo-coder",
+      "image": "/templates/hugo/themes/hugo-coder/tn-featured-hugo-coder.png"
+    },
+    {
+      "name": "hugo-conference",
+      "dir": "templates/hugo/themes/hugo-conference",
+      "image": "/templates/hugo/themes/hugo-conference/tn-featured-hugo-conference.png"
+    },
+    {
+      "name": "hugo-creative-portfolio-theme",
+      "dir": "templates/hugo/themes/hugo-creative-portfolio-theme",
+      "image": "/templates/hugo/themes/hugo-creative-portfolio-theme/tn-featured-hugo-creative-portfolio-theme.png"
+    },
+    {
+      "name": "hugo-developer-portfolio",
+      "dir": "templates/hugo/themes/hugo-developer-portfolio",
+      "image": "/templates/hugo/themes/hugo-developer-portfolio/tn-featured-hugo-developer-portfolio.png"
+    },
+    {
+      "name": "hugo-devresume-theme",
+      "dir": "templates/hugo/themes/hugo-devresume-theme",
+      "image": "/templates/hugo/themes/hugo-devresume-theme/tn-featured-hugo-devresume-theme.png"
+    },
+    {
+      "name": "hugo-dusk",
+      "dir": "templates/hugo/themes/hugo-dusk",
+      "image": "/templates/hugo/themes/hugo-dusk/tn-featured-hugo-dusk.png"
+    },
+    {
+      "name": "hugo-dusky-neon-potato",
+      "dir": "templates/hugo/themes/hugo-dusky-neon-potato",
+      "image": "/templates/hugo/themes/hugo-dusky-neon-potato/tn-featured-hugo-dusky-neon-potato.png"
+    },
+    {
+      "name": "hugo-elate-theme",
+      "dir": "templates/hugo/themes/hugo-elate-theme",
+      "image": "/templates/hugo/themes/hugo-elate-theme/tn-featured-hugo-elate-theme.png"
+    },
+    {
+      "name": "hugo-eureka",
+      "dir": "templates/hugo/themes/hugo-eureka",
+      "image": "/templates/hugo/themes/hugo-eureka/tn-featured-hugo-eureka.png"
+    },
+    {
+      "name": "hugo-fabric",
+      "dir": "templates/hugo/themes/hugo-fabric",
+      "image": "/templates/hugo/themes/hugo-fabric/tn-featured-hugo-fabric.png"
+    },
+    {
+      "name": "hugo-faq-theme",
+      "dir": "templates/hugo/themes/hugo-faq-theme",
+      "image": "/templates/hugo/themes/hugo-faq-theme/tn-featured-hugo-faq-theme.png"
+    },
+    {
+      "name": "hugo-flex",
+      "dir": "templates/hugo/themes/hugo-flex",
+      "image": "/templates/hugo/themes/hugo-flex/tn-featured-hugo-flex.png"
+    },
+    {
+      "name": "hugo-frais",
+      "dir": "templates/hugo/themes/hugo-frais",
+      "image": "/templates/hugo/themes/hugo-frais/tn-featured-hugo-frais.png"
+    },
+    {
+      "name": "hugo-frances-theme",
+      "dir": "templates/hugo/themes/hugo-frances-theme",
+      "image": "/templates/hugo/themes/hugo-frances-theme/tn-featured-hugo-frances-theme.png"
+    },
+    {
+      "name": "hugo-fresh",
+      "dir": "templates/hugo/themes/hugo-fresh",
+      "image": "/templates/hugo/themes/hugo-fresh/tn-featured-hugo-fresh.png"
+    },
+    {
+      "name": "hugo-future-imperfect-slim",
+      "dir": "templates/hugo/themes/hugo-future-imperfect-slim",
+      "image": "/templates/hugo/themes/hugo-future-imperfect-slim/tn-featured-hugo-future-imperfect-slim.png"
+    },
+    {
+      "name": "hugo-goa",
+      "dir": "templates/hugo/themes/hugo-goa",
+      "image": "/templates/hugo/themes/hugo-goa/tn-featured-hugo-goa.png"
+    },
+    {
+      "name": "hugo-grapes",
+      "dir": "templates/hugo/themes/hugo-grapes",
+      "image": "/templates/hugo/themes/hugo-grapes/tn-featured-hugo-grapes.png"
+    },
+    {
+      "name": "hugo-h5bp",
+      "dir": "templates/hugo/themes/hugo-h5bp",
+      "image": "/templates/hugo/themes/hugo-h5bp/tn-featured-hugo-h5bp.png"
+    },
+    {
+      "name": "hugo-hello-programmer-theme",
+      "dir": "templates/hugo/themes/hugo-hello-programmer-theme",
+      "image": "/templates/hugo/themes/hugo-hello-programmer-theme/tn-featured-hugo-hello-programmer-theme.png"
+    },
+    {
+      "name": "hugo-hero-theme",
+      "dir": "templates/hugo/themes/hugo-hero-theme",
+      "image": "/templates/hugo/themes/hugo-hero-theme/tn-featured-hugo-hero-theme.png"
+    },
+    {
+      "name": "hugo-html5up-alpha",
+      "dir": "templates/hugo/themes/hugo-html5up-alpha",
+      "image": "/templates/hugo/themes/hugo-html5up-alpha/tn-featured-hugo-html5up-alpha.png"
+    },
+    {
+      "name": "hugo-icarus",
+      "dir": "templates/hugo/themes/hugo-icarus",
+      "image": "/templates/hugo/themes/hugo-icarus/tn-featured-hugo-icarus.png"
+    },
+    {
+      "name": "hugo-icon",
+      "dir": "templates/hugo/themes/hugo-icon",
+      "image": "/templates/hugo/themes/hugo-icon/tn-featured-hugo-icon.png"
+    },
+    {
+      "name": "hugo-identity-theme",
+      "dir": "templates/hugo/themes/hugo-identity-theme",
+      "image": "/templates/hugo/themes/hugo-identity-theme/tn-featured-hugo-identity-theme.png"
+    },
+    {
+      "name": "hugo-initio",
+      "dir": "templates/hugo/themes/hugo-initio",
+      "image": "/templates/hugo/themes/hugo-initio/tn-featured-hugo-initio.png"
+    },
+    {
+      "name": "hugo-ink",
+      "dir": "templates/hugo/themes/hugo-ink",
+      "image": "/templates/hugo/themes/hugo-ink/tn-featured-hugo-ink.png"
+    },
+    {
+      "name": "hugo-journal",
+      "dir": "templates/hugo/themes/hugo-journal",
+      "image": "/templates/hugo/themes/hugo-journal/tn-featured-hugo-journal.png"
+    },
+    {
+      "name": "hugo-kiera",
+      "dir": "templates/hugo/themes/hugo-kiera",
+      "image": "/templates/hugo/themes/hugo-kiera/tn-featured-hugo-kiera.png"
+    },
+    {
+      "name": "hugo-lamp",
+      "dir": "templates/hugo/themes/hugo-lamp",
+      "image": "/templates/hugo/themes/hugo-lamp/tn-featured-hugo-lamp.png"
+    },
+    {
+      "name": "hugo-lime",
+      "dir": "templates/hugo/themes/hugo-lime",
+      "image": "/templates/hugo/themes/hugo-lime/tn-featured-hugo-lime.png"
+    },
+    {
+      "name": "hugo-lithium-theme",
+      "dir": "templates/hugo/themes/hugo-lithium-theme",
+      "image": "/templates/hugo/themes/hugo-lithium-theme/tn-featured-hugo-lithium-theme.png"
+    },
+    {
+      "name": "hugo-lodi-theme",
+      "dir": "templates/hugo/themes/hugo-lodi-theme",
+      "image": "/templates/hugo/themes/hugo-lodi-theme/tn-featured-hugo-lodi-theme.png"
+    },
+    {
+      "name": "hugo-material-blog",
+      "dir": "templates/hugo/themes/hugo-material-blog",
+      "image": "/templates/hugo/themes/hugo-material-blog/tn-featured-hugo-material-blog.png"
+    },
+    {
+      "name": "hugo-minimalist-spa",
+      "dir": "templates/hugo/themes/hugo-minimalist-spa",
+      "image": "/templates/hugo/themes/hugo-minimalist-spa/tn-featured-hugo-minimalist-spa.png"
+    },
+    {
+      "name": "hugo-myportfolio-theme",
+      "dir": "templates/hugo/themes/hugo-myportfolio-theme",
+      "image": "/templates/hugo/themes/hugo-myportfolio-theme/tn-featured-hugo-myportfolio-theme.png"
+    },
+    {
+      "name": "hugo-nederburg-theme",
+      "dir": "templates/hugo/themes/hugo-nederburg-theme",
+      "image": "/templates/hugo/themes/hugo-nederburg-theme/tn-featured-hugo-nederburg-theme.png"
+    },
+    {
+      "name": "hugo-notepadium",
+      "dir": "templates/hugo/themes/hugo-notepadium",
+      "image": "/templates/hugo/themes/hugo-notepadium/tn-featured-hugo-notepadium.png"
+    },
+    {
+      "name": "hugo-now-ui",
+      "dir": "templates/hugo/themes/hugo-now-ui",
+      "image": "/templates/hugo/themes/hugo-now-ui/tn-featured-hugo-now-ui.png"
+    },
+    {
+      "name": "hugo-now",
+      "dir": "templates/hugo/themes/hugo-now",
+      "image": "/templates/hugo/themes/hugo-now/tn-featured-hugo-now.png"
+    },
+    {
+      "name": "hugo-octopress",
+      "dir": "templates/hugo/themes/hugo-octopress",
+      "image": "/templates/hugo/themes/hugo-octopress/tn-featured-hugo-octopress.png"
+    },
+    {
+      "name": "hugo-orbit-theme",
+      "dir": "templates/hugo/themes/hugo-orbit-theme",
+      "image": "/templates/hugo/themes/hugo-orbit-theme/tn-featured-hugo-orbit-theme.png"
+    },
+    {
+      "name": "hugo-pacman-theme",
+      "dir": "templates/hugo/themes/hugo-pacman-theme",
+      "image": "/templates/hugo/themes/hugo-pacman-theme/tn-featured-hugo-pacman-theme.png"
+    },
+    {
+      "name": "hugo-paper",
+      "dir": "templates/hugo/themes/hugo-paper",
+      "image": "/templates/hugo/themes/hugo-paper/tn-featured-hugo-paper.png"
+    },
+    {
+      "name": "hugo-piercer-theme",
+      "dir": "templates/hugo/themes/hugo-piercer-theme",
+      "image": "/templates/hugo/themes/hugo-piercer-theme/tn-featured-hugo-piercer-theme.png"
+    },
+    {
+      "name": "hugo-primer",
+      "dir": "templates/hugo/themes/hugo-primer",
+      "image": "/templates/hugo/themes/hugo-primer/tn-featured-hugo-primer.png"
+    },
+    {
+      "name": "hugo-refresh",
+      "dir": "templates/hugo/themes/hugo-refresh",
+      "image": "/templates/hugo/themes/hugo-refresh/tn-featured-hugo-refresh.png"
+    },
+    {
+      "name": "hugo-resume",
+      "dir": "templates/hugo/themes/hugo-resume",
+      "image": "/templates/hugo/themes/hugo-resume/tn-featured-hugo-resume.png"
+    },
+    {
+      "name": "hugo-rocinante",
+      "dir": "templates/hugo/themes/hugo-rocinante",
+      "image": "/templates/hugo/themes/hugo-rocinante/tn-featured-hugo-rocinante.png"
+    },
+    {
+      "name": "hugo-serif-theme",
+      "dir": "templates/hugo/themes/hugo-serif-theme",
+      "image": "/templates/hugo/themes/hugo-serif-theme/tn-featured-hugo-serif-theme.png"
+    },
+    {
+      "name": "hugo-shopping-product-catalogue-simple",
+      "dir": "templates/hugo/themes/hugo-shopping-product-catalogue-simple",
+      "image": "/templates/hugo/themes/hugo-shopping-product-catalogue-simple/tn-featured-hugo-shopping-product-catalogue-simple.png"
+    },
+    {
+      "name": "hugo-sodium-theme",
+      "dir": "templates/hugo/themes/hugo-sodium-theme",
+      "image": "/templates/hugo/themes/hugo-sodium-theme/tn-featured-hugo-sodium-theme.png"
+    },
+    {
+      "name": "hugo-spectre-pixel-theme",
+      "dir": "templates/hugo/themes/hugo-spectre-pixel-theme",
+      "image": "/templates/hugo/themes/hugo-spectre-pixel-theme/tn-featured-hugo-spectre-pixel-theme.png"
+    },
+    {
+      "name": "hugo-split-theme",
+      "dir": "templates/hugo/themes/hugo-split-theme",
+      "image": "/templates/hugo/themes/hugo-split-theme/tn-featured-hugo-split-theme.png"
+    },
+    {
+      "name": "hugo-starter",
+      "dir": "templates/hugo/themes/hugo-starter",
+      "image": "/templates/hugo/themes/hugo-starter/tn-featured-hugo-starter.png"
+    },
+    {
+      "name": "hugo-startpage-theme",
+      "dir": "templates/hugo/themes/hugo-startpage-theme",
+      "image": "/templates/hugo/themes/hugo-startpage-theme/tn-featured-hugo-startpage-theme.png"
+    },
+    {
+      "name": "hugo-stellar-theme",
+      "dir": "templates/hugo/themes/hugo-stellar-theme",
+      "image": "/templates/hugo/themes/hugo-stellar-theme/tn-featured-hugo-stellar-theme.png"
+    },
+    {
+      "name": "hugo-sugoi",
+      "dir": "templates/hugo/themes/hugo-sugoi",
+      "image": "/templates/hugo/themes/hugo-sugoi/tn-featured-hugo-sugoi.png"
+    },
+    {
+      "name": "hugo-sustain",
+      "dir": "templates/hugo/themes/hugo-sustain",
+      "image": "/templates/hugo/themes/hugo-sustain/tn-featured-hugo-sustain.png"
+    },
+    {
+      "name": "hugo-swift-theme",
+      "dir": "templates/hugo/themes/hugo-swift-theme",
+      "image": "/templates/hugo/themes/hugo-swift-theme/tn-featured-hugo-swift-theme.png"
+    },
+    {
+      "name": "hugo-tailwind-journal",
+      "dir": "templates/hugo/themes/hugo-tailwind-journal",
+      "image": "/templates/hugo/themes/hugo-tailwind-journal/tn-featured-hugo-tailwind-journal.png"
+    },
+    {
+      "name": "hugo-terrassa-theme",
+      "dir": "templates/hugo/themes/hugo-terrassa-theme",
+      "image": "/templates/hugo/themes/hugo-terrassa-theme/tn-featured-hugo-terrassa-theme.png"
+    },
+    {
+      "name": "hugo-theme-anubis",
+      "dir": "templates/hugo/themes/hugo-theme-anubis",
+      "image": "/templates/hugo/themes/hugo-theme-anubis/tn-featured-hugo-theme-anubis.png"
+    },
+    {
+      "name": "hugo-theme-basic",
+      "dir": "templates/hugo/themes/hugo-theme-basic",
+      "image": "/templates/hugo/themes/hugo-theme-basic/tn-featured-hugo-theme-basic.png"
+    },
+    {
+      "name": "hugo-theme-bootstrap4-blog",
+      "dir": "templates/hugo/themes/hugo-theme-bootstrap4-blog",
+      "image": "/templates/hugo/themes/hugo-theme-bootstrap4-blog/tn-featured-hugo-theme-bootstrap4-blog.png"
+    },
+    {
+      "name": "hugo-theme-cactus-plus",
+      "dir": "templates/hugo/themes/hugo-theme-cactus-plus",
+      "image": "/templates/hugo/themes/hugo-theme-cactus-plus/tn-featured-hugo-theme-cactus-plus.png"
+    },
+    {
+      "name": "hugo-theme-chunky-poster",
+      "dir": "templates/hugo/themes/hugo-theme-chunky-poster",
+      "image": "/templates/hugo/themes/hugo-theme-chunky-poster/tn-featured-hugo-theme-chunky-poster.png"
+    },
+    {
+      "name": "hugo-theme-cleanwhite",
+      "dir": "templates/hugo/themes/hugo-theme-cleanwhite",
+      "image": "/templates/hugo/themes/hugo-theme-cleanwhite/tn-featured-hugo-theme-cleanwhite.png"
+    },
+    {
+      "name": "hugo-theme-codex",
+      "dir": "templates/hugo/themes/hugo-theme-codex",
+      "image": "/templates/hugo/themes/hugo-theme-codex/tn-featured-hugo-theme-codex.png"
+    },
+    {
+      "name": "hugo-theme-cole",
+      "dir": "templates/hugo/themes/hugo-theme-cole",
+      "image": "/templates/hugo/themes/hugo-theme-cole/tn-featured-hugo-theme-cole.png"
+    },
+    {
+      "name": "hugo-theme-color-your-world",
+      "dir": "templates/hugo/themes/hugo-theme-color-your-world",
+      "image": "/templates/hugo/themes/hugo-theme-color-your-world/tn-featured-hugo-theme-color-your-world.png"
+    },
+    {
+      "name": "hugo-theme-console",
+      "dir": "templates/hugo/themes/hugo-theme-console",
+      "image": "/templates/hugo/themes/hugo-theme-console/tn-featured-hugo-theme-console.png"
+    },
+    {
+      "name": "hugo-theme-den",
+      "dir": "templates/hugo/themes/hugo-theme-den",
+      "image": "/templates/hugo/themes/hugo-theme-den/tn-featured-hugo-theme-den.png"
+    },
+    {
+      "name": "hugo-theme-diary",
+      "dir": "templates/hugo/themes/hugo-theme-diary",
+      "image": "/templates/hugo/themes/hugo-theme-diary/tn-featured-hugo-theme-diary.png"
+    },
+    {
+      "name": "hugo-theme-dimension",
+      "dir": "templates/hugo/themes/hugo-theme-dimension",
+      "image": "/templates/hugo/themes/hugo-theme-dimension/tn-featured-hugo-theme-dimension.png"
+    },
+    {
+      "name": "hugo-theme-doors",
+      "dir": "templates/hugo/themes/hugo-theme-doors",
+      "image": "/templates/hugo/themes/hugo-theme-doors/tn-featured-hugo-theme-doors.png"
+    },
+    {
+      "name": "hugo-theme-dopetrope",
+      "dir": "templates/hugo/themes/hugo-theme-dopetrope",
+      "image": "/templates/hugo/themes/hugo-theme-dopetrope/tn-featured-hugo-theme-dopetrope.png"
+    },
+    {
+      "name": "hugo-theme-dream",
+      "dir": "templates/hugo/themes/hugo-theme-dream",
+      "image": "/templates/hugo/themes/hugo-theme-dream/tn-featured-hugo-theme-dream.png"
+    },
+    {
+      "name": "hugo-theme-easybook",
+      "dir": "templates/hugo/themes/hugo-theme-easybook",
+      "image": "/templates/hugo/themes/hugo-theme-easybook/tn-featured-hugo-theme-easybook.png"
+    },
+    {
+      "name": "hugo-theme-even",
+      "dir": "templates/hugo/themes/hugo-theme-even",
+      "image": "/templates/hugo/themes/hugo-theme-even/tn-featured-hugo-theme-even.png"
+    },
+    {
+      "name": "hugo-theme-fuji",
+      "dir": "templates/hugo/themes/hugo-theme-fuji",
+      "image": "/templates/hugo/themes/hugo-theme-fuji/tn-featured-hugo-theme-fuji.png"
+    },
+    {
+      "name": "hugo-theme-hamburg",
+      "dir": "templates/hugo/themes/hugo-theme-hamburg",
+      "image": "/templates/hugo/themes/hugo-theme-hamburg/tn-featured-hugo-theme-hamburg.png"
+    },
+    {
+      "name": "hugo-theme-hello-friend-ng",
+      "dir": "templates/hugo/themes/hugo-theme-hello-friend-ng",
+      "image": "/templates/hugo/themes/hugo-theme-hello-friend-ng/tn-featured-hugo-theme-hello-friend-ng.png"
+    },
+    {
+      "name": "hugo-theme-hello-friend",
+      "dir": "templates/hugo/themes/hugo-theme-hello-friend",
+      "image": "/templates/hugo/themes/hugo-theme-hello-friend/tn-featured-hugo-theme-hello-friend.png"
+    },
+    {
+      "name": "hugo-theme-introduction",
+      "dir": "templates/hugo/themes/hugo-theme-introduction",
+      "image": "/templates/hugo/themes/hugo-theme-introduction/tn-featured-hugo-theme-introduction.png"
+    },
+    {
+      "name": "hugo-theme-iris",
+      "dir": "templates/hugo/themes/hugo-theme-iris",
+      "image": "/templates/hugo/themes/hugo-theme-iris/tn-featured-hugo-theme-iris.png"
+    },
+    {
+      "name": "hugo-theme-jane",
+      "dir": "templates/hugo/themes/hugo-theme-jane",
+      "image": "/templates/hugo/themes/hugo-theme-jane/tn-featured-hugo-theme-jane.png"
+    },
+    {
+      "name": "hugo-theme-lean-launch-page",
+      "dir": "templates/hugo/themes/hugo-theme-lean-launch-page",
+      "image": "/templates/hugo/themes/hugo-theme-lean-launch-page/tn-featured-hugo-theme-lean-launch-page.png"
+    },
+    {
+      "name": "hugo-theme-learn",
+      "dir": "templates/hugo/themes/hugo-theme-learn",
+      "image": "/templates/hugo/themes/hugo-theme-learn/tn-featured-hugo-theme-learn.png"
+    },
+    {
+      "name": "hugo-theme-m10c",
+      "dir": "templates/hugo/themes/hugo-theme-m10c",
+      "image": "/templates/hugo/themes/hugo-theme-m10c/tn-featured-hugo-theme-m10c.png"
+    },
+    {
+      "name": "hugo-theme-massively",
+      "dir": "templates/hugo/themes/hugo-theme-massively",
+      "image": "/templates/hugo/themes/hugo-theme-massively/tn-featured-hugo-theme-massively.png"
+    },
+    {
+      "name": "hugo-theme-meme",
+      "dir": "templates/hugo/themes/hugo-theme-meme",
+      "image": "/templates/hugo/themes/hugo-theme-meme/tn-featured-hugo-theme-meme.png"
+    },
+    {
+      "name": "hugo-theme-minos",
+      "dir": "templates/hugo/themes/hugo-theme-minos",
+      "image": "/templates/hugo/themes/hugo-theme-minos/tn-featured-hugo-theme-minos.png"
+    },
+    {
+      "name": "hugo-theme-mixedpaper",
+      "dir": "templates/hugo/themes/hugo-theme-mixedpaper",
+      "image": "/templates/hugo/themes/hugo-theme-mixedpaper/tn-featured-hugo-theme-mixedpaper.png"
+    },
+    {
+      "name": "hugo-theme-nix",
+      "dir": "templates/hugo/themes/hugo-theme-nix",
+      "image": "/templates/hugo/themes/hugo-theme-nix/tn-featured-hugo-theme-nix.png"
+    },
+    {
+      "name": "hugo-theme-noteworthy",
+      "dir": "templates/hugo/themes/hugo-theme-noteworthy",
+      "image": "/templates/hugo/themes/hugo-theme-noteworthy/tn-featured-hugo-theme-noteworthy.png"
+    },
+    {
+      "name": "hugo-theme-notrack",
+      "dir": "templates/hugo/themes/hugo-theme-notrack",
+      "image": "/templates/hugo/themes/hugo-theme-notrack/tn-featured-hugo-theme-notrack.png"
+    },
+    {
+      "name": "hugo-theme-novela",
+      "dir": "templates/hugo/themes/hugo-theme-novela",
+      "image": "/templates/hugo/themes/hugo-theme-novela/tn-featured-hugo-theme-novela.png"
+    },
+    {
+      "name": "hugo-theme-okayish-blog",
+      "dir": "templates/hugo/themes/hugo-theme-okayish-blog",
+      "image": "/templates/hugo/themes/hugo-theme-okayish-blog/tn-featured-hugo-theme-okayish-blog.png"
+    },
+    {
+      "name": "hugo-theme-prav",
+      "dir": "templates/hugo/themes/hugo-theme-prav",
+      "image": "/templates/hugo/themes/hugo-theme-prav/tn-featured-hugo-theme-prav.png"
+    },
+    {
+      "name": "hugo-theme-pure",
+      "dir": "templates/hugo/themes/hugo-theme-pure",
+      "image": "/templates/hugo/themes/hugo-theme-pure/tn-featured-hugo-theme-pure.png"
+    },
+    {
+      "name": "hugo-theme-revealjs",
+      "dir": "templates/hugo/themes/hugo-theme-revealjs",
+      "image": "/templates/hugo/themes/hugo-theme-revealjs/tn-featured-hugo-theme-revealjs.png"
+    },
+    {
+      "name": "hugo-theme-robotico",
+      "dir": "templates/hugo/themes/hugo-theme-robotico",
+      "image": "/templates/hugo/themes/hugo-theme-robotico/tn-featured-hugo-theme-robotico.png"
+    },
+    {
+      "name": "hugo-theme-sam",
+      "dir": "templates/hugo/themes/hugo-theme-sam",
+      "image": "/templates/hugo/themes/hugo-theme-sam/tn-featured-hugo-theme-sam.png"
+    },
+    {
+      "name": "hugo-theme-simple-blog",
+      "dir": "templates/hugo/themes/hugo-theme-simple-blog",
+      "image": "/templates/hugo/themes/hugo-theme-simple-blog/tn-featured-hugo-theme-simple-blog.png"
+    },
+    {
+      "name": "hugo-theme-sky",
+      "dir": "templates/hugo/themes/hugo-theme-sky",
+      "image": "/templates/hugo/themes/hugo-theme-sky/tn-featured-hugo-theme-sky.png"
+    },
+    {
+      "name": "hugo-theme-techdoc",
+      "dir": "templates/hugo/themes/hugo-theme-techdoc",
+      "image": "/templates/hugo/themes/hugo-theme-techdoc/tn-featured-hugo-theme-techdoc.png"
+    },
+    {
+      "name": "hugo-theme-techlog-simple",
+      "dir": "templates/hugo/themes/hugo-theme-techlog-simple",
+      "image": "/templates/hugo/themes/hugo-theme-techlog-simple/tn-featured-hugo-theme-techlog-simple.png"
+    },
+    {
+      "name": "hugo-theme-terminal",
+      "dir": "templates/hugo/themes/hugo-theme-terminal",
+      "image": "/templates/hugo/themes/hugo-theme-terminal/tn-featured-hugo-theme-terminal.png"
+    },
+    {
+      "name": "hugo-theme-tokiwa",
+      "dir": "templates/hugo/themes/hugo-theme-tokiwa",
+      "image": "/templates/hugo/themes/hugo-theme-tokiwa/tn-featured-hugo-theme-tokiwa.png"
+    },
+    {
+      "name": "hugo-theme-tony",
+      "dir": "templates/hugo/themes/hugo-theme-tony",
+      "image": "/templates/hugo/themes/hugo-theme-tony/tn-featured-hugo-theme-tony.png"
+    },
+    {
+      "name": "hugo-theme-vec",
+      "dir": "templates/hugo/themes/hugo-theme-vec",
+      "image": "/templates/hugo/themes/hugo-theme-vec/tn-featured-hugo-theme-vec.png"
+    },
+    {
+      "name": "hugo-theme-wave",
+      "dir": "templates/hugo/themes/hugo-theme-wave",
+      "image": "/templates/hugo/themes/hugo-theme-wave/tn-featured-hugo-theme-wave.png"
+    },
+    {
+      "name": "hugo-theme-winning",
+      "dir": "templates/hugo/themes/hugo-theme-winning",
+      "image": "/templates/hugo/themes/hugo-theme-winning/tn-featured-hugo-theme-winning.png"
+    },
+    {
+      "name": "hugo-theme-yinyang",
+      "dir": "templates/hugo/themes/hugo-theme-yinyang",
+      "image": "/templates/hugo/themes/hugo-theme-yinyang/tn-featured-hugo-theme-yinyang.png"
+    },
+    {
+      "name": "hugo-theme-yuki",
+      "dir": "templates/hugo/themes/hugo-theme-yuki",
+      "image": "/templates/hugo/themes/hugo-theme-yuki/tn-featured-hugo-theme-yuki.png"
+    },
+    {
+      "name": "hugo-theme-zdoc",
+      "dir": "templates/hugo/themes/hugo-theme-zdoc",
+      "image": "/templates/hugo/themes/hugo-theme-zdoc/tn-featured-hugo-theme-zdoc.png"
+    },
+    {
+      "name": "hugo-theme-zen",
+      "dir": "templates/hugo/themes/hugo-theme-zen",
+      "image": "/templates/hugo/themes/hugo-theme-zen/tn-featured-hugo-theme-zen.png"
+    },
+    {
+      "name": "hugo-theme-zozo",
+      "dir": "templates/hugo/themes/hugo-theme-zozo",
+      "image": "/templates/hugo/themes/hugo-theme-zozo/tn-featured-hugo-theme-zozo.png"
+    },
+    {
+      "name": "hugo-theme-zzo",
+      "dir": "templates/hugo/themes/hugo-theme-zzo",
+      "image": "/templates/hugo/themes/hugo-theme-zzo/tn-featured-hugo-theme-zzo.png"
+    },
+    {
+      "name": "hugo-tikva",
+      "dir": "templates/hugo/themes/hugo-tikva",
+      "image": "/templates/hugo/themes/hugo-tikva/tn-featured-hugo-tikva.png"
+    },
+    {
+      "name": "hugo-tranquilpeak-theme",
+      "dir": "templates/hugo/themes/hugo-tranquilpeak-theme",
+      "image": "/templates/hugo/themes/hugo-tranquilpeak-theme/tn-featured-hugo-tranquilpeak-theme.png"
+    },
+    {
+      "name": "hugo-travelify-theme",
+      "dir": "templates/hugo/themes/hugo-travelify-theme",
+      "image": "/templates/hugo/themes/hugo-travelify-theme/tn-featured-hugo-travelify-theme.png"
+    },
+    {
+      "name": "hugo-uilite",
+      "dir": "templates/hugo/themes/hugo-uilite",
+      "image": "/templates/hugo/themes/hugo-uilite/tn-featured-hugo-uilite.png"
+    },
+    {
+      "name": "hugo-universal-theme",
+      "dir": "templates/hugo/themes/hugo-universal-theme",
+      "image": "/templates/hugo/themes/hugo-universal-theme/tn-featured-hugo-universal-theme.png"
+    },
+    {
+      "name": "hugo-vitae",
+      "dir": "templates/hugo/themes/hugo-vitae",
+      "image": "/templates/hugo/themes/hugo-vitae/tn-featured-hugo-vitae.png"
+    },
+    {
+      "name": "hugo-w3-simple",
+      "dir": "templates/hugo/themes/hugo-w3-simple",
+      "image": "/templates/hugo/themes/hugo-w3-simple/tn-featured-hugo-w3-simple.png"
+    },
+    {
+      "name": "hugo-webslides",
+      "dir": "templates/hugo/themes/hugo-webslides",
+      "image": "/templates/hugo/themes/hugo-webslides/tn-featured-hugo-webslides.png"
+    },
+    {
+      "name": "hugo-whisper-theme",
+      "dir": "templates/hugo/themes/hugo-whisper-theme",
+      "image": "/templates/hugo/themes/hugo-whisper-theme/tn-featured-hugo-whisper-theme.png"
+    },
+    {
+      "name": "hugo-xmag",
+      "dir": "templates/hugo/themes/hugo-xmag",
+      "image": "/templates/hugo/themes/hugo-xmag/tn-featured-hugo-xmag.png"
+    },
+    {
+      "name": "hugo-xmin",
+      "dir": "templates/hugo/themes/hugo-xmin",
+      "image": "/templates/hugo/themes/hugo-xmin/tn-featured-hugo-xmin.png"
+    },
+    {
+      "name": "hugo.386",
+      "dir": "templates/hugo/themes/hugo.386",
+      "image": "/templates/hugo/themes/hugo.386/tn-featured-hugo.386.png"
+    },
+    {
+      "name": "hugo_eiio",
+      "dir": "templates/hugo/themes/hugo_eiio",
+      "image": "/templates/hugo/themes/hugo_eiio/tn-featured-hugo_eiio.png"
+    },
+    {
+      "name": "hugo_theme_adam_eve",
+      "dir": "templates/hugo/themes/hugo_theme_adam_eve",
+      "image": "/templates/hugo/themes/hugo_theme_adam_eve/tn-featured-hugo_theme_adam_eve.png"
+    },
+    {
+      "name": "hugo_theme_pickles",
+      "dir": "templates/hugo/themes/hugo_theme_pickles",
+      "image": "/templates/hugo/themes/hugo_theme_pickles/tn-featured-hugo_theme_pickles.png"
+    },
+    {
+      "name": "hugograyscale",
+      "dir": "templates/hugo/themes/hugograyscale",
+      "image": "/templates/hugo/themes/hugograyscale/tn-featured-hugograyscale.png"
+    },
+    {
+      "name": "hugonews",
+      "dir": "templates/hugo/themes/hugonews",
+      "image": "/templates/hugo/themes/hugonews/tn-featured-hugonews.png"
+    },
+    {
+      "name": "hugrid",
+      "dir": "templates/hugo/themes/hugrid",
+      "image": "/templates/hugo/themes/hugrid/tn-featured-hugrid.png"
+    },
+    {
+      "name": "hyde-hyde",
+      "dir": "templates/hugo/themes/hyde-hyde",
+      "image": "/templates/hugo/themes/hyde-hyde/tn-featured-hyde-hyde.png"
+    },
+    {
+      "name": "hyde",
+      "dir": "templates/hugo/themes/hyde",
+      "image": "/templates/hugo/themes/hyde/tn-featured-hyde.png"
+    },
+    {
+      "name": "indigo",
+      "dir": "templates/hugo/themes/indigo",
+      "image": "/templates/hugo/themes/indigo/tn-featured-indigo.png"
+    },
+    {
+      "name": "infinity-hugo",
+      "dir": "templates/hugo/themes/infinity-hugo",
+      "image": "/templates/hugo/themes/infinity-hugo/tn-featured-infinity-hugo.png"
+    },
+    {
+      "name": "inkblotty",
+      "dir": "templates/hugo/themes/inkblotty",
+      "image": "/templates/hugo/themes/inkblotty/tn-featured-inkblotty.png"
+    },
+    {
+      "name": "internet-weblog",
+      "dir": "templates/hugo/themes/internet-weblog",
+      "image": "/templates/hugo/themes/internet-weblog/tn-featured-internet-weblog.png"
+    },
+    {
+      "name": "khata",
+      "dir": "templates/hugo/themes/khata",
+      "image": "/templates/hugo/themes/khata/tn-featured-khata.png"
+    },
+    {
+      "name": "kiss-em",
+      "dir": "templates/hugo/themes/kiss-em",
+      "image": "/templates/hugo/themes/kiss-em/tn-featured-kiss-em.png"
+    },
+    {
+      "name": "kiss",
+      "dir": "templates/hugo/themes/kiss",
+      "image": "/templates/hugo/themes/kiss/tn-featured-kiss.png"
+    },
+    {
+      "name": "kitab",
+      "dir": "templates/hugo/themes/kitab",
+      "image": "/templates/hugo/themes/kitab/tn-featured-kitab.png"
+    },
+    {
+      "name": "kraiklyn",
+      "dir": "templates/hugo/themes/kraiklyn",
+      "image": "/templates/hugo/themes/kraiklyn/tn-featured-kraiklyn.png"
+    },
+    {
+      "name": "kross-hugo-portfolio-template",
+      "dir": "templates/hugo/themes/kross-hugo-portfolio-template",
+      "image": "/templates/hugo/themes/kross-hugo-portfolio-template/tn-featured-kross-hugo-portfolio-template.png"
+    },
+    {
+      "name": "kube",
+      "dir": "templates/hugo/themes/kube",
+      "image": "/templates/hugo/themes/kube/tn-featured-kube.png"
+    },
+    {
+      "name": "lanyon",
+      "dir": "templates/hugo/themes/lanyon",
+      "image": "/templates/hugo/themes/lanyon/tn-featured-lanyon.png"
+    },
+    {
+      "name": "lekh",
+      "dir": "templates/hugo/themes/lekh",
+      "image": "/templates/hugo/themes/lekh/tn-featured-lekh.png"
+    },
+    {
+      "name": "light-hugo",
+      "dir": "templates/hugo/themes/light-hugo",
+      "image": "/templates/hugo/themes/light-hugo/tn-featured-light-hugo.png"
+    },
+    {
+      "name": "liquorice",
+      "dir": "templates/hugo/themes/liquorice",
+      "image": "/templates/hugo/themes/liquorice/tn-featured-liquorice.png"
+    },
+    {
+      "name": "liva-hugo",
+      "dir": "templates/hugo/themes/liva-hugo",
+      "image": "/templates/hugo/themes/liva-hugo/tn-featured-liva-hugo.png"
+    },
+    {
+      "name": "mainroad",
+      "dir": "templates/hugo/themes/mainroad",
+      "image": "/templates/hugo/themes/mainroad/tn-featured-mainroad.png"
+    },
+    {
+      "name": "manis-hugo-theme",
+      "dir": "templates/hugo/themes/manis-hugo-theme",
+      "image": "/templates/hugo/themes/manis-hugo-theme/tn-featured-manis-hugo-theme.png"
+    },
+    {
+      "name": "material-design",
+      "dir": "templates/hugo/themes/material-design",
+      "image": "/templates/hugo/themes/material-design/tn-featured-material-design.png"
+    },
+    {
+      "name": "materialize-bp-hugo-theme",
+      "dir": "templates/hugo/themes/materialize-bp-hugo-theme",
+      "image": "/templates/hugo/themes/materialize-bp-hugo-theme/tn-featured-materialize-bp-hugo-theme.png"
+    },
+    {
+      "name": "mediumish-gohugo-theme",
+      "dir": "templates/hugo/themes/mediumish-gohugo-theme",
+      "image": "/templates/hugo/themes/mediumish-gohugo-theme/tn-featured-mediumish-gohugo-theme.png"
+    },
+    {
+      "name": "meghna-hugo",
+      "dir": "templates/hugo/themes/meghna-hugo",
+      "image": "/templates/hugo/themes/meghna-hugo/tn-featured-meghna-hugo.png"
+    },
+    {
+      "name": "mero",
+      "dir": "templates/hugo/themes/mero",
+      "image": "/templates/hugo/themes/mero/tn-featured-mero.png"
+    },
+    {
+      "name": "min_night",
+      "dir": "templates/hugo/themes/min_night",
+      "image": "/templates/hugo/themes/min_night/tn-featured-min_night.png"
+    },
+    {
+      "name": "minimage",
+      "dir": "templates/hugo/themes/minimage",
+      "image": "/templates/hugo/themes/minimage/tn-featured-minimage.png"
+    },
+    {
+      "name": "minimal-bootstrap-hugo-theme",
+      "dir": "templates/hugo/themes/minimal-bootstrap-hugo-theme",
+      "image": "/templates/hugo/themes/minimal-bootstrap-hugo-theme/tn-featured-minimal-bootstrap-hugo-theme.png"
+    },
+    {
+      "name": "minimal",
+      "dir": "templates/hugo/themes/minimal",
+      "image": "/templates/hugo/themes/minimal/tn-featured-minimal.png"
+    },
+    {
+      "name": "minimo",
+      "dir": "templates/hugo/themes/minimo",
+      "image": "/templates/hugo/themes/minimo/tn-featured-minimo.png"
+    },
+    {
+      "name": "monopriv",
+      "dir": "templates/hugo/themes/monopriv",
+      "image": "/templates/hugo/themes/monopriv/tn-featured-monopriv.png"
+    },
+    {
+      "name": "navigator-hugo",
+      "dir": "templates/hugo/themes/navigator-hugo",
+      "image": "/templates/hugo/themes/navigator-hugo/tn-featured-navigator-hugo.png"
+    },
+    {
+      "name": "new-oldnew-mashup",
+      "dir": "templates/hugo/themes/new-oldnew-mashup",
+      "image": "/templates/hugo/themes/new-oldnew-mashup/tn-featured-new-oldnew-mashup.png"
+    },
+    {
+      "name": "newsroom",
+      "dir": "templates/hugo/themes/newsroom",
+      "image": "/templates/hugo/themes/newsroom/tn-featured-newsroom.png"
+    },
+    {
+      "name": "nofancy",
+      "dir": "templates/hugo/themes/nofancy",
+      "image": "/templates/hugo/themes/nofancy/tn-featured-nofancy.png"
+    },
+    {
+      "name": "northendlab-hugo",
+      "dir": "templates/hugo/themes/northendlab-hugo",
+      "image": "/templates/hugo/themes/northendlab-hugo/tn-featured-northendlab-hugo.png"
+    },
+    {
+      "name": "npq-hugo",
+      "dir": "templates/hugo/themes/npq-hugo",
+      "image": "/templates/hugo/themes/npq-hugo/tn-featured-npq-hugo.png"
+    },
+    {
+      "name": "onepress",
+      "dir": "templates/hugo/themes/onepress",
+      "image": "/templates/hugo/themes/onepress/tn-featured-onepress.png"
+    },
+    {
+      "name": "onetwothree",
+      "dir": "templates/hugo/themes/onetwothree",
+      "image": "/templates/hugo/themes/onetwothree/tn-featured-onetwothree.png"
+    },
+    {
+      "name": "origin-hugo-theme",
+      "dir": "templates/hugo/themes/origin-hugo-theme",
+      "image": "/templates/hugo/themes/origin-hugo-theme/tn-featured-origin-hugo-theme.png"
+    },
+    {
+      "name": "osprey-delight",
+      "dir": "templates/hugo/themes/osprey-delight",
+      "image": "/templates/hugo/themes/osprey-delight/tn-featured-osprey-delight.png"
+    },
+    {
+      "name": "papaya",
+      "dir": "templates/hugo/themes/papaya",
+      "image": "/templates/hugo/themes/papaya/tn-featured-papaya.png"
+    },
+    {
+      "name": "paperback",
+      "dir": "templates/hugo/themes/paperback",
+      "image": "/templates/hugo/themes/paperback/tn-featured-paperback.png"
+    },
+    {
+      "name": "papercss-hugo-theme",
+      "dir": "templates/hugo/themes/papercss-hugo-theme",
+      "image": "/templates/hugo/themes/papercss-hugo-theme/tn-featured-papercss-hugo-theme.png"
+    },
+    {
+      "name": "paperesque",
+      "dir": "templates/hugo/themes/paperesque",
+      "image": "/templates/hugo/themes/paperesque/tn-featured-paperesque.png"
+    },
+    {
+      "name": "parsa-hugo-personal-blog-theme",
+      "dir": "templates/hugo/themes/parsa-hugo-personal-blog-theme",
+      "image": "/templates/hugo/themes/parsa-hugo-personal-blog-theme/tn-featured-parsa-hugo-personal-blog-theme.png"
+    },
+    {
+      "name": "persian-hugo",
+      "dir": "templates/hugo/themes/persian-hugo",
+      "image": "/templates/hugo/themes/persian-hugo/tn-featured-persian-hugo.png"
+    },
+    {
+      "name": "personal-web",
+      "dir": "templates/hugo/themes/personal-web",
+      "image": "/templates/hugo/themes/personal-web/tn-featured-personal-web.png"
+    },
+    {
+      "name": "photo-grid",
+      "dir": "templates/hugo/themes/photo-grid",
+      "image": "/templates/hugo/themes/photo-grid/tn-featured-photo-grid.png"
+    },
+    {
+      "name": "pixyll",
+      "dir": "templates/hugo/themes/pixyll",
+      "image": "/templates/hugo/themes/pixyll/tn-featured-pixyll.png"
+    },
+    {
+      "name": "polymer",
+      "dir": "templates/hugo/themes/polymer",
+      "image": "/templates/hugo/themes/polymer/tn-featured-polymer.png"
+    },
+    {
+      "name": "potato-dark",
+      "dir": "templates/hugo/themes/potato-dark",
+      "image": "/templates/hugo/themes/potato-dark/tn-featured-potato-dark.png"
+    },
+    {
+      "name": "pulp",
+      "dir": "templates/hugo/themes/pulp",
+      "image": "/templates/hugo/themes/pulp/tn-featured-pulp.png"
+    },
+    {
+      "name": "purehugo",
+      "dir": "templates/hugo/themes/purehugo",
+      "image": "/templates/hugo/themes/purehugo/tn-featured-purehugo.png"
+    },
+    {
+      "name": "raditian-free-hugo-theme",
+      "dir": "templates/hugo/themes/raditian-free-hugo-theme",
+      "image": "/templates/hugo/themes/raditian-free-hugo-theme/tn-featured-raditian-free-hugo-theme.png"
+    },
+    {
+      "name": "ramium",
+      "dir": "templates/hugo/themes/ramium",
+      "image": "/templates/hugo/themes/ramium/tn-featured-ramium.png"
+    },
+    {
+      "name": "redgood",
+      "dir": "templates/hugo/themes/redgood",
+      "image": "/templates/hugo/themes/redgood/tn-featured-redgood.png"
+    },
+    {
+      "name": "restaurant-hugo",
+      "dir": "templates/hugo/themes/restaurant-hugo",
+      "image": "/templates/hugo/themes/restaurant-hugo/tn-featured-restaurant-hugo.png"
+    },
+    {
+      "name": "resto-hugo",
+      "dir": "templates/hugo/themes/resto-hugo",
+      "image": "/templates/hugo/themes/resto-hugo/tn-featured-resto-hugo.png"
+    },
+    {
+      "name": "reveal-hugo",
+      "dir": "templates/hugo/themes/reveal-hugo",
+      "image": "/templates/hugo/themes/reveal-hugo/tn-featured-reveal-hugo.png"
+    },
+    {
+      "name": "ronu-hugo-theme",
+      "dir": "templates/hugo/themes/ronu-hugo-theme",
+      "image": "/templates/hugo/themes/ronu-hugo-theme/tn-featured-ronu-hugo-theme.png"
+    },
+    {
+      "name": "roxo-hugo",
+      "dir": "templates/hugo/themes/roxo-hugo",
+      "image": "/templates/hugo/themes/roxo-hugo/tn-featured-roxo-hugo.png"
+    },
+    {
+      "name": "sada",
+      "dir": "templates/hugo/themes/sada",
+      "image": "/templates/hugo/themes/sada/tn-featured-sada.png"
+    },
+    {
+      "name": "screenshot",
+      "dir": "templates/hugo/themes/screenshot",
+      "image": "/templates/hugo/themes/screenshot/tn-featured-screenshot.png"
+    },
+    {
+      "name": "showcase-hugo-theme",
+      "dir": "templates/hugo/themes/showcase-hugo-theme",
+      "image": "/templates/hugo/themes/showcase-hugo-theme/tn-featured-showcase-hugo-theme.png"
+    },
+    {
+      "name": "silhouette-hugo",
+      "dir": "templates/hugo/themes/silhouette-hugo",
+      "image": "/templates/hugo/themes/silhouette-hugo/tn-featured-silhouette-hugo.png"
+    },
+    {
+      "name": "simple-a",
+      "dir": "templates/hugo/themes/simple-a",
+      "image": "/templates/hugo/themes/simple-a/tn-featured-simple-a.png"
+    },
+    {
+      "name": "simple-style",
+      "dir": "templates/hugo/themes/simple-style",
+      "image": "/templates/hugo/themes/simple-style/tn-featured-simple-style.png"
+    },
+    {
+      "name": "simpleit-hugo-theme",
+      "dir": "templates/hugo/themes/simpleit-hugo-theme",
+      "image": "/templates/hugo/themes/simpleit-hugo-theme/tn-featured-simpleit-hugo-theme.png"
+    },
+    {
+      "name": "simplicity",
+      "dir": "templates/hugo/themes/simplicity",
+      "image": "/templates/hugo/themes/simplicity/tn-featured-simplicity.png"
+    },
+    {
+      "name": "slate",
+      "dir": "templates/hugo/themes/slate",
+      "image": "/templates/hugo/themes/slate/tn-featured-slate.png"
+    },
+    {
+      "name": "slick",
+      "dir": "templates/hugo/themes/slick",
+      "image": "/templates/hugo/themes/slick/tn-featured-slick.png"
+    },
+    {
+      "name": "slim",
+      "dir": "templates/hugo/themes/slim",
+      "image": "/templates/hugo/themes/slim/tn-featured-slim.png"
+    },
+    {
+      "name": "smol",
+      "dir": "templates/hugo/themes/smol",
+      "image": "/templates/hugo/themes/smol/tn-featured-smol.png"
+    },
+    {
+      "name": "soho",
+      "dir": "templates/hugo/themes/soho",
+      "image": "/templates/hugo/themes/soho/tn-featured-soho.png"
+    },
+    {
+      "name": "solar-theme-hugo",
+      "dir": "templates/hugo/themes/solar-theme-hugo",
+      "image": "/templates/hugo/themes/solar-theme-hugo/tn-featured-solar-theme-hugo.png"
+    },
+    {
+      "name": "someparts-hugo",
+      "dir": "templates/hugo/themes/someparts-hugo",
+      "image": "/templates/hugo/themes/someparts-hugo/tn-featured-someparts-hugo.png"
+    },
+    {
+      "name": "somrat",
+      "dir": "templates/hugo/themes/somrat",
+      "image": "/templates/hugo/themes/somrat/tn-featured-somrat.png"
+    },
+    {
+      "name": "stip-hugo",
+      "dir": "templates/hugo/themes/stip-hugo",
+      "image": "/templates/hugo/themes/stip-hugo/tn-featured-stip-hugo.png"
+    },
+    {
+      "name": "story",
+      "dir": "templates/hugo/themes/story",
+      "image": "/templates/hugo/themes/story/tn-featured-story.png"
+    },
+    {
+      "name": "strange-case",
+      "dir": "templates/hugo/themes/strange-case",
+      "image": "/templates/hugo/themes/strange-case/tn-featured-strange-case.png"
+    },
+    {
+      "name": "syna",
+      "dir": "templates/hugo/themes/syna",
+      "image": "/templates/hugo/themes/syna/tn-featured-syna.png"
+    },
+    {
+      "name": "tale-hugo",
+      "dir": "templates/hugo/themes/tale-hugo",
+      "image": "/templates/hugo/themes/tale-hugo/tn-featured-tale-hugo.png"
+    },
+    {
+      "name": "ticky_tacky_dark",
+      "dir": "templates/hugo/themes/ticky_tacky_dark",
+      "image": "/templates/hugo/themes/ticky_tacky_dark/tn-featured-ticky_tacky_dark.png"
+    },
+    {
+      "name": "timer-hugo",
+      "dir": "templates/hugo/themes/timer-hugo",
+      "image": "/templates/hugo/themes/timer-hugo/tn-featured-timer-hugo.png"
+    },
+    {
+      "name": "toha",
+      "dir": "templates/hugo/themes/toha",
+      "image": "/templates/hugo/themes/toha/tn-featured-toha.png"
+    },
+    {
+      "name": "twenty-twenty-hugo",
+      "dir": "templates/hugo/themes/twenty-twenty-hugo",
+      "image": "/templates/hugo/themes/twenty-twenty-hugo/tn-featured-twenty-twenty-hugo.png"
+    },
+    {
+      "name": "twentyfourteen",
+      "dir": "templates/hugo/themes/twentyfourteen",
+      "image": "/templates/hugo/themes/twentyfourteen/tn-featured-twentyfourteen.png"
+    },
+    {
+      "name": "twentynineteen-hugo",
+      "dir": "templates/hugo/themes/twentynineteen-hugo",
+      "image": "/templates/hugo/themes/twentynineteen-hugo/tn-featured-twentynineteen-hugo.png"
+    },
+    {
+      "name": "vanilla-bootstrap-hugo-theme",
+      "dir": "templates/hugo/themes/vanilla-bootstrap-hugo-theme",
+      "image": "/templates/hugo/themes/vanilla-bootstrap-hugo-theme/tn-featured-vanilla-bootstrap-hugo-theme.png"
+    },
+    {
+      "name": "vex-hugo",
+      "dir": "templates/hugo/themes/vex-hugo",
+      "image": "/templates/hugo/themes/vex-hugo/tn-featured-vex-hugo.png"
+    },
+    {
+      "name": "vienna",
+      "dir": "templates/hugo/themes/vienna",
+      "image": "/templates/hugo/themes/vienna/tn-featured-vienna.png"
+    },
+    {
+      "name": "vncnt-hugo",
+      "dir": "templates/hugo/themes/vncnt-hugo",
+      "image": "/templates/hugo/themes/vncnt-hugo/tn-featured-vncnt-hugo.png"
+    },
+    {
+      "name": "yourfolio",
+      "dir": "templates/hugo/themes/yourfolio",
+      "image": "/templates/hugo/themes/yourfolio/tn-featured-yourfolio.png"
+    }
+  ]
+}
